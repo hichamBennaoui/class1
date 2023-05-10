@@ -11,10 +11,10 @@ L’une des commandes git les plus utilisées est git config. On l’utilise pou
 git config --global user.email sam@google.com
 Git init
 Cette commande est utilisée pour créer un nouveau dépôt GIT :
-git init
 Git add
 La commande git add peut être utilisée pour ajouter des fichiers à l’index. Par exemple, la commande suivante ajoutera un fichier nommé temp.txt dans le répertoire local de l’index:
 git add temp.txt
 Git clone
+Downloads a project with the entire history from the remote repository.
 
 
