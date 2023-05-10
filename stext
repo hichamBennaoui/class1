@@ -1,0 +1,21 @@
+Git est un système de contrôle de version distribué largement utilisé pour gérer les modifications apportées à des projets de développement logiciel. 
+Il est conçu pour suivre l'évolution des fichiers, enregistrer les modifications effectuées par différents contributeurs et faciliter la collaboration sur un projet.
+
+Voici quelques-unes des commandes Git les plus couramment utilisées :
+
+git init: Crée un nouveau dépôt Git dans un répertoire local.
+git clone <url>: Clone un dépôt Git distant dans un répertoire local.
+git add <file>: Ajoute un fichier spécifique à l'index pour la prochaine validation.
+git commit -m "<message>": Valide les modifications ajoutées à l'index avec un message descriptif.
+git status: Affiche l'état actuel des fichiers du répertoire de travail et de l'index.
+git push: Pousse les modifications locales vers un dépôt distant.
+git pull: Récupère les dernières modifications d'un dépôt distant et les fusionne avec la branche actuelle.
+git branch: Affiche la liste des branches du dépôt local et met en évidence la branche actuelle.
+git checkout <branch>: Bascule vers une autre branche dans le dépôt.
+git merge <branch>: Fusionne une branche spécifiée avec la branche actuelle.
+git log: Affiche l'historique des validations effectuées dans le dépôt.
+Ce ne sont là que quelques-unes des nombreuses commandes disponibles dans Git. Le système offre une grande flexibilité et de nombreuses fonctionnalités pour gérer efficacement les versions et les collaborations sur les projets de développement.
+
+
+
+
